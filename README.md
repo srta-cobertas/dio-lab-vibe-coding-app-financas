@@ -1,6 +1,13 @@
 # App de Organização de Finanças Pessoais I Bruna Mendes Amstalden
 
-## 1. Prompt Final (PRD)
+## 1. Resumo do Projeto
+
+O projeto consiste em um Web App responsivo e acessível de finanças pessoais que elimina a burocracia das planilhas tradicionais ao utilizar um agente de IA conversacional e proativo capaz de entender texto, áudio e fotos de recibos, além de interagir com o usuário por meio de confirmações rápidas em um toque no painel principal. 
+
+Voltado para iniciantes e focado em transformar a gestão financeira em um hábito sem esforço, o produto combina uma identidade visual acolhedora em tons de verde e cantos arredondados com recursos avançados de acessibilidade universal (como comandos por voz, respostas em áudio, leitores de tela e alto contraste para pessoas com baixa visão ou mobilidade reduzida), navegação adaptativa (menu lateral em desktop e barra inferior em celular) e simulação de Open Finance com dados do contexto brasileiro em conformidade com a LGPD.
+
+
+## 2. Prompt Final (PRD)
 
 ```markdown
 
@@ -75,7 +82,7 @@ Gerar um Web App totalmente navegável, responsivo e funcional composto por:
 
 ```
 
-## 2. Resultado no Lovable
+## 3. Resultado no Lovable
 
 Link: https://clara-controle-financeiro.lovable.app
 
