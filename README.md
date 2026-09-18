@@ -86,6 +86,12 @@ Gerar um Web App totalmente navegável, responsivo e funcional composto por:
 
 Link: https://clara-controle-financeiro.lovable.app
 
+<img width="1438" height="813" alt="Clara Home" src="https://github.com/user-attachments/assets/66a1d4f7-fe82-4c94-90dc-2f2ac4716ee4" />
+<img width="1438" height="813" alt="Clara Transações" src="https://github.com/user-attachments/assets/ec770d59-dc7c-44a5-8e79-44c264b0705c" />
+<img width="1438" height="813" alt="Clara Metas" src="https://github.com/user-attachments/assets/1850aa29-0a87-4f93-a5a2-ad6d127615db" />
+<img width="1438" height="813" alt="Clara Acessibilidade" src="https://github.com/user-attachments/assets/5dcc7912-c38b-48cf-952d-b55a34a9eee2" />
+
+
 
 
 
